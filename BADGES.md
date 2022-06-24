@@ -1,6 +1,6 @@
 layout: page
 title: "Badges"
-permalink: https://lightningdarkmatter.github.io/badges
+permalink: /badges
 
 # Badges
 
