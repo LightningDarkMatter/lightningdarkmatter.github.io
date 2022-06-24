@@ -1,5 +1,6 @@
-title: "Badges"
+---
 permalink: /badges.html
+---
 
 # Badges
 
