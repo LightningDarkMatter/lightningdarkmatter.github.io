@@ -1,6 +1,6 @@
 layout: page
 title: "Badges"
-permalink: /badges
+permalink: /badges.html
 
 # Badges
 
